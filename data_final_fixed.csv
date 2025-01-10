@@ -1,0 +1,321 @@
+state_name,sector,occupation,no_of_hh,fxd_cap_exp,hh_reporting_fxd_cap_exp,land_purchase_exp,hh_reporting_land_purchase,avg_value_assets,avg_amount_of_debt,incidence_of_indebtedness,debt_asset_ratio
+Jammu & Kashmir,Rural,Cultivator,229200,79718,44100,0,0,2240648,12613,13.6,0.6
+Jammu & Kashmir,Rural,Non Cultivator,3317900,84087,182200,50056,10900,565832,13427,7.9,2.4
+Jammu & Kashmir,Rural,Total Cultivator and Non-cultivator,3547100,163805,226300,50056,10900,1976131,12741,12.7,0.6
+Jammu & Kashmir,Urban,Cultivator,95900,60859,46100,0,0,5271920,127623,28.1,2.4
+Jammu & Kashmir,Urban,Non Cultivator,1278700,187588,609000,590,100,2347122,65742,17.6,2.8
+Jammu & Kashmir,Urban,Total Cultivator and Non-cultivator,1374600,248447,655100,590,100,3356102,87089,21.2,2.6
+,,,,,,,,,,,
+,,,,,,,,,,,
+Himachal Pradesh,Rural,Cultivator,123900,60175,75200,290,100,2361199,39504,29,1.7
+Himachal Pradesh,Rural,Non Cultivator,417800,35915,39900,16240,3500,960119,74888,14.4,7.8
+Himachal Pradesh,Rural,Total Cultivator and Non-cultivator,541700,96090,115100,16530,3600,2071601,46818,26,2.3
+Himachal Pradesh,Urban,Cultivator,82200,81076,65200,920,500,5155760,199660,22.7,3.9
+Himachal Pradesh,Urban,Non Cultivator,1242900,242825,506200,0,0,2205834,81699,21.6,3.7
+Himachal Pradesh,Urban,Total Cultivator and Non-cultivator,1325100,323901,571400,920,500,2978542,112598,21.9,3.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Punjab,Rural,Cultivator,24500,4855,14200,1318,1300,8851079,120889,38.8,1.4
+Punjab,Rural,Non Cultivator,210500,31492,17800,695,100,1084707,24841,29,2.3
+Punjab,Rural,Total Cultivator and Non-cultivator,235000,36347,31900,2013,1400,4295371,64548,33.1,1.5
+Punjab,Urban,Cultivator,438400,260210,246800,0,0,4255440,56612,19.8,1.3
+Punjab,Urban,Non Cultivator,2316700,162429,582100,15941,6000,1748752,44532,17.5,2.5
+Punjab,Urban,Total Cultivator and Non-cultivator,2755200,422639,828900,15941,6000,2638002,48818,18.3,1.9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Chandigarh,Rural,Cultivator,183200,44703,90300,1447,400,7609675,6338,3.1,0.1
+Chandigarh,Rural,Non Cultivator,2452100,436796,418300,0,0,1961346,6517,3.9,0.3
+Chandigarh,Rural,Total Cultivator and Non-cultivator,2635300,481499,508700,1447,400,2636497,6495,3.8,0.2
+Chandigarh,Urban,Cultivator,100,0,0,0,0,19611009,50262,10.4,0.3
+Chandigarh,Urban,Non Cultivator,8500,396,200,0,0,4919120,64067,13.2,1.3
+Chandigarh,Urban,Total Cultivator and Non-cultivator,8600,396,200,0,0,9425894,59833,12.3,0.6
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Uttarakhand,Rural,Cultivator,8900,0,0,0,0,1017120,26336,31.4,2.6
+Uttarakhand,Rural,Non Cultivator,217600,9342,10600,0,0,567512,62260,14.6,11
+Uttarakhand,Rural,Total Cultivator and Non-cultivator,226500,9342,10600,0,0,867938,38256,25.8,4.4
+Uttarakhand,Urban,Cultivator,86700,14435,51900,0,0,3278658,78738,9.8,2.4
+Uttarakhand,Urban,Non Cultivator,1563100,74476,553300,92,8400,2100701,70940,19.2,3.4
+Uttarakhand,Urban,Total Cultivator and Non-cultivator,1649800,88911,605200,92,8400,2764654,75335,13.9,2.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Haryana,Rural,Cultivator,28400,8166,21900,0,0,7246039,64926,29.8,0.9
+Haryana,Rural,Non Cultivator,591400,203092,213800,236,100,1018094,20126,15.8,2
+Haryana,Rural,Total Cultivator and Non-cultivator,619800,211258,235700,236,100,4616859,46013,23.9,1
+Haryana,Urban,Cultivator,688100,545766,306200,47093,7500,6017531,171934,14.4,2.9
+Haryana,Urban,Non Cultivator,1896800,314513,283900,1225,400,2882539,97615,11.9,3.4
+Haryana,Urban,Total Cultivator and Non-cultivator,2584900,860279,590200,48318,7900,3678210,116478,12.5,3.2
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Delhi,Rural,Cultivator,150500,18303,36300,0,0,16720715,6957,3,0
+Delhi,Rural,Non Cultivator,2425900,113779,167800,36009,2500,8252471,3439,3.4,0
+Delhi,Rural,Total Cultivator and Non-cultivator,2576400,132082,204100,36009,2500,11126311,4633,3.3,0
+Delhi,Urban,Cultivator,6400,105,100,0,0,3669744,24947,5.9,0.7
+Delhi,Urban,Non Cultivator,55600,684,6100,0,0,1984406,36554,5.4,1.8
+Delhi,Urban,Total Cultivator and Non-cultivator,62000,789,6200,0,0,2481554,33130,5.6,1.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Rajasthan,Rural,Cultivator,13500,0,0,0,0,1201289,52150,40.6,4.3
+Rajasthan,Rural,Non Cultivator,3341400,113461,139400,0,0,541923,28483,24.5,5.3
+Rajasthan,Rural,Total Cultivator and Non-cultivator,3354900,113461,139400,0,0,1068880,47397,37.4,4.4
+Rajasthan,Urban,Cultivator,2720100,716702,1293000,39606,11300,2229595,68862,23.7,3.1
+Rajasthan,Urban,Non Cultivator,5551900,898170,2029000,43666,14800,1767805,45055,21.9,2.5
+Rajasthan,Urban,Total Cultivator and Non-cultivator,8272000,1614872,3322000,83272,26200,1943393,54107,22.6,2.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Uttar Pradesh,Rural,Cultivator,362100,65955,128200,1540,700,1255775,25805,32.2,2.1
+Uttar Pradesh,Rural,Non Cultivator,2878800,424748,417800,49429,9200,414049,11616,21.8,2.8
+Uttar Pradesh,Rural,Total Cultivator and Non-cultivator,3240900,490703,546000,50970,9800,1041901,22199,29.6,2.1
+Uttar Pradesh,Urban,Cultivator,2682500,555478,1681600,78519,21000,2235388,52118,17.2,2.3
+Uttar Pradesh,Urban,Non Cultivator,21447900,1679187,9278900,92518,21900,1733209,111072,20.1,6.4
+Uttar Pradesh,Urban,Total Cultivator and Non-cultivator,24130400,2234664,10960600,171036,43000,1937938,87038,18.9,4.5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Bihar,Rural,Cultivator,1003500,162456,429000,23816,6700,764171,19672,31.4,2.6
+Bihar,Rural,Non Cultivator,7188000,1264502,1295000,160287,21400,262687,12077,26,4.6
+Bihar,Rural,Total Cultivator and Non-cultivator,8191400,1426958,1723900,184103,28100,548464,16405,29.1,3
+Bihar,Urban,Cultivator,582900,38723,172400,5210,1500,1892503,28200,15.7,1.5
+Bihar,Urban,Non Cultivator,13478200,373015,2977700,54976,60700,1227059,19066,12.1,1.6
+Bihar,Urban,Total Cultivator and Non-cultivator,14061100,411738,3150100,60186,62100,1434693,21916,13.2,1.5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Sikkim,Rural,Cultivator,286700,35859,78000,8,300,791426,46896,6.2,5.9
+Sikkim,Rural,Non Cultivator,1839000,104285,223100,3600,500,536960,34186,8.7,6.4
+Sikkim,Rural,Total Cultivator and Non-cultivator,2125600,140144,301100,3609,800,699876,42323,7.1,6
+Sikkim,Urban,Cultivator,4100,234,800,0,0,1594098,47108,14.5,3
+Sikkim,Urban,Non Cultivator,111000,296,2600,0,0,1700386,64802,9.1,3.8
+Sikkim,Urban,Total Cultivator and Non-cultivator,115000,530,3300,0,0,1676966,60903,10.3,3.6
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Arunachal Pradesh,Rural,Cultivator,300,0,0,0,0,849006,3763,5.4,0.4
+Arunachal Pradesh,Rural,Non Cultivator,44800,1415,2400,188,100,678718,5357,4.1,0.8
+Arunachal Pradesh,Rural,Total Cultivator and Non-cultivator,45100,1415,2400,188,100,816195,4071,5.2,0.5
+Arunachal Pradesh,Urban,Cultivator,76400,2760,14600,0,0,610446,3742,8.4,0.6
+Arunachal Pradesh,Urban,Non Cultivator,89500,2082,13000,146,600,828676,25491,15.1,3.1
+Arunachal Pradesh,Urban,Total Cultivator and Non-cultivator,165900,4842,27700,146,600,793133,21949,14,2.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nagaland,Rural,Cultivator,5500,322,2400,81,300,1419857,2271,1.8,0.2
+Nagaland,Rural,Non Cultivator,50000,3187,12400,2746,1500,648460,924,0.6,0.1
+Nagaland,Rural,Total Cultivator and Non-cultivator,55500,3508,14800,2827,1900,1226813,1934,1.5,0.2
+Nagaland,Urban,Cultivator,85400,949,34100,134,900,1334447,1925,2,0.1
+Nagaland,Urban,Non Cultivator,327400,1567,52200,245,100,2208246,7179,3.4,0.3
+Nagaland,Urban,Total Cultivator and Non-cultivator,412800,2516,86300,379,1000,1932720,5522,3,0.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Manipur,Rural,Cultivator,26600,634,16000,1049,700,624050,5275,11.3,0.8
+Manipur,Rural,Non Cultivator,66700,844,12800,3290,600,582719,4152,5.4,0.7
+Manipur,Rural,Total Cultivator and Non-cultivator,93300,1478,28800,4339,1200,614259,5009,9.9,0.8
+Manipur,Urban,Cultivator,55600,1245,16300,0,0,1185227,5952,6.9,0.5
+Manipur,Urban,Non Cultivator,202800,2795,37000,0,0,1794357,9200,6.7,0.5
+Manipur,Urban,Total Cultivator and Non-cultivator,258400,4039,53200,0,0,1493531,7596,6.8,0.5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Mizoram,Rural,Cultivator,60800,603,9200,179,0,330010,4206,3.9,1.3
+Mizoram,Rural,Non Cultivator,105600,1208,8800,0,0,594947,19084,13.3,3.2
+Mizoram,Rural,Total Cultivator and Non-cultivator,166400,1811,18100,179,0,369845,6443,5.3,1.7
+Mizoram,Urban,Cultivator,24500,275,6100,63,400,1280994,10529,6.8,0.8
+Mizoram,Urban,Non Cultivator,69100,1215,13300,2,0,2544401,58150,21.4,2.3
+Mizoram,Urban,Total Cultivator and Non-cultivator,93600,1490,19400,66,400,2067778,40185,15.9,1.9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tripura,Rural,Cultivator,22000,552,2900,0,0,397902,3636,12,0.9
+Tripura,Rural,Non Cultivator,68300,2209,7500,1790,700,196503,3705,8.6,1.9
+Tripura,Rural,Total Cultivator and Non-cultivator,90400,2761,10300,1790,700,278635,3677,10,1.3
+Tripura,Urban,Cultivator,12200,0,0,0,0,730322,18938,15.8,2.6
+Tripura,Urban,Non Cultivator,651300,8170,38500,9,1300,639813,18512,11.2,2.9
+Tripura,Urban,Total Cultivator and Non-cultivator,663500,8170,38500,9,1300,668593,18647,12.7,2.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Meghalaya,Rural,Cultivator,6100,35,300,0,0,584376,1697,2.9,0.3
+Meghalaya,Rural,Non Cultivator,195500,7951,24200,605,600,868519,1474,1.2,0.2
+Meghalaya,Rural,Total Cultivator and Non-cultivator,201600,7986,24500,605,600,646642,1648,2.5,0.3
+Meghalaya,Urban,Cultivator,94800,4260,65200,0,0,1521292,13092,4.8,0.9
+Meghalaya,Urban,Non Cultivator,377400,15178,189600,0,0,2475319,16031,8.8,0.6
+Meghalaya,Urban,Total Cultivator and Non-cultivator,472100,19438,254700,0,0,2224904,15259,7.7,0.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Assam,Rural,Cultivator,11300,690,8700,0,0,592939,4580,9.3,0.8
+Assam,Rural,Non Cultivator,109600,8920,21900,39,0,318799,6652,11.6,2.1
+Assam,Rural,Total Cultivator and Non-cultivator,120800,9610,30700,39,0,503499,5256,10.1,1
+Assam,Urban,Cultivator,787000,18160,185700,2351,10200,2349863,42774,22.4,1.8
+Assam,Urban,Non Cultivator,4462600,91572,1235100,5433,800,3055927,34281,15.6,1.1
+Assam,Urban,Total Cultivator and Non-cultivator,5249500,109732,1420800,7784,11000,2848416,36777,17.6,1.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+West Bengal,Rural,Cultivator,122500,6891,16500,201,300,539357,14848,30.3,2.8
+West Bengal,Rural,Non Cultivator,767400,149870,133000,7191,2200,261952,7297,16.2,2.8
+West Bengal,Rural,Total Cultivator and Non-cultivator,890000,156761,149500,7392,2500,407297,11253,23.6,2.8
+West Bengal,Urban,Cultivator,221700,14455,62800,0,0,3291368,35892,18.7,1.1
+West Bengal,Urban,Non Cultivator,13914200,1087962,4770600,121521,119000,1221281,33427,12.6,2.7
+West Bengal,Urban,Total Cultivator and Non-cultivator,14135900,1102418,4833400,121521,119000,1936885,34279,14.7,1.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Jharkhand,Rural,Cultivator,522600,54782,181500,128,2200,605382,7004,20,1.2
+Jharkhand,Rural,Non Cultivator,5871900,550932,1105400,10153,7300,302422,3761,11.9,1.2
+Jharkhand,Rural,Total Cultivator and Non-cultivator,6394400,605714,1286900,10281,9600,548988,6401,18.5,1.2
+Jharkhand,Urban,Cultivator,216200,6003,73000,104,200,1318218,24050,17.6,1.8
+Jharkhand,Urban,Non Cultivator,3535600,134268,1446600,31444,10900,825928,16134,9.1,2
+Jharkhand,Urban,Total Cultivator and Non-cultivator,3751700,140271,1519600,31548,11100,972704,18494,11.6,1.9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Odisha,Rural,Cultivator,151500,27098,24100,2289,900,317146,12480,29.7,3.9
+Odisha,Rural,Non Cultivator,1290700,192410,168300,21510,3100,215783,15780,18.4,7.3
+Odisha,Rural,Total Cultivator and Non-cultivator,1442200,219508,192300,23799,4000,281427,13643,25.7,4.8
+Odisha,Urban,Cultivator,574300,40758,320400,0,0,1020844,282864,19.2,27.7
+Odisha,Urban,Non Cultivator,7234200,219046,2271200,7189,11800,659696,24936,18.4,3.8
+Odisha,Urban,Total Cultivator and Non-cultivator,7808600,259804,2591600,7189,11800,786640,115598,18.7,14.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Chhattisgarh,Rural,Cultivator,154700,11533,89100,357,500,735873,11677,16.2,1.6
+Chhattisgarh,Rural,Non Cultivator,1227700,64335,248300,1219,6900,688296,6086,7.7,0.9
+Chhattisgarh,Rural,Total Cultivator and Non-cultivator,1382400,75868,337300,1576,7400,722860,10148,13.9,1.4
+Chhattisgarh,Urban,Cultivator,1105600,38743,413400,2663,1600,2276881,49780,12,2.2
+Chhattisgarh,Urban,Non Cultivator,2641500,97292,667300,74876,12700,1063178,17266,11.6,1.6
+Chhattisgarh,Urban,Total Cultivator and Non-cultivator,3747200,136035,1080700,77539,14300,1487957,28645,11.8,1.9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Madhya Pradesh,Rural,Cultivator,104000,47278,27000,1647,600,1333840,26255,28.5,2
+Madhya Pradesh,Rural,Non Cultivator,1126200,100034,139800,0,0,180385,9840,15.9,5.5
+Madhya Pradesh,Rural,Total Cultivator and Non-cultivator,1230200,147312,166800,1647,600,985249,21294,24.7,2.2
+Madhya Pradesh,Urban,Cultivator,2666100,538687,1274100,24618,11700,4359718,71016,18.7,1.6
+Madhya Pradesh,Urban,Non Cultivator,5846200,220509,1330600,5371,300,1063878,49548,13.5,4.7
+Madhya Pradesh,Urban,Total Cultivator and Non-cultivator,8512300,759196,2604800,29988,12000,2191726,56894,15.3,2.6
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Gujarat,Rural,Cultivator,521500,119322,186300,12909,3000,2565998,28667,30.1,1.1
+Gujarat,Rural,Non Cultivator,3407600,249088,497800,22145,5200,376382,19187,17.5,5.1
+Gujarat,Rural,Total Cultivator and Non-cultivator,3929100,368410,684100,35054,8200,1842843,25536,26,1.4
+Gujarat,Urban,Cultivator,1377200,293784,770000,0,0,2457434,78370,20.1,3.2
+Gujarat,Urban,Non Cultivator,4494600,265181,1427200,9930,1200,1415431,68450,19.1,4.8
+Gujarat,Urban,Total Cultivator and Non-cultivator,5871900,558965,2197200,9930,1200,1748175,71618,19.4,4.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Daman & Diu,Rural,Cultivator,322300,35116,117600,0,0,960405,36388,20.3,3.8
+Daman & Diu,Rural,Non Cultivator,5210600,380001,800100,21509,3400,611254,40589,14.9,6.6
+Daman & Diu,Rural,Total Cultivator and Non-cultivator,5532800,415117,917700,21509,3400,727070,39196,16.7,5.4
+Daman & Diu,Urban,Cultivator,100,0,0,0,0,1241034,27489,8.4,2.2
+Daman & Diu,Urban,Non Cultivator,15700,4940,7200,0,0,309811,7797,7.1,2.5
+Daman & Diu,Urban,Total Cultivator and Non-cultivator,15800,4940,7200,0,0,469621,11176,7.3,2.4
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Dadra & Nagar Haveli,Rural,Cultivator,2300,369,2100,0,0,2669348,5864,6.2,0.2
+Dadra & Nagar Haveli,Rural,Non Cultivator,77300,2183,21000,0,0,97580,1494,1.2,1.5
+Dadra & Nagar Haveli,Rural,Total Cultivator and Non-cultivator,79600,2552,23100,0,0,1954633,4649,4.8,0.2
+Dadra & Nagar Haveli,Urban,Cultivator,1500,78,1100,0,0,3566608,214281,33,6
+Dadra & Nagar Haveli,Urban,Non Cultivator,25900,2956,8000,0,0,1204928,158608,13.6,13.2
+Dadra & Nagar Haveli,Urban,Total Cultivator and Non-cultivator,27400,3034,9100,0,0,1819477,173095,18.7,9.5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maharashtra,Rural,Cultivator,4500,3635,3700,0,0,1702425,43129,41.5,2.5
+Maharashtra,Rural,Non Cultivator,30100,478,6200,0,0,354726,21631,17.8,6.1
+Maharashtra,Rural,Total Cultivator and Non-cultivator,34600,4113,9900,0,0,1123431,33893,31.3,3
+Maharashtra,Urban,Cultivator,3486300,810548,1530800,70650,17100,8988622,82073,19.7,0.9
+Maharashtra,Urban,Non Cultivator,9031000,770137,2064500,63766,29700,2426828,106555,18.5,4.4
+Maharashtra,Urban,Total Cultivator and Non-cultivator,12517300,1580685,3595300,134416,46800,4337061,99428,18.9,2.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Andhra Pradesh,Rural,Cultivator,566700,231873,182100,44173,10900,683492,87777,62.8,12.8
+Andhra Pradesh,Rural,Non Cultivator,10577600,1414909,1071800,70163,17600,195485,34739,47.1,17.8
+Andhra Pradesh,Rural,Total Cultivator and Non-cultivator,11144300,1646782,1253900,114336,28500,411939,58263,54.1,14.1
+Andhra Pradesh,Urban,Cultivator,1759000,221934,592300,1115,1700,1622628,184864,51.3,11.4
+Andhra Pradesh,Urban,Non Cultivator,6678200,601179,1440300,640,1200,771410,79002,35.9,10.2
+Andhra Pradesh,Urban,Total Cultivator and Non-cultivator,8437200,823113,2032600,1755,2900,990821,106289,39.8,10.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Karnataka,Rural,Cultivator,277200,42033,78800,0,0,1106032,66127,51.8,6
+Karnataka,Rural,Non Cultivator,4335800,506300,753400,104688,7300,387020,32495,39.6,8.4
+Karnataka,Rural,Total Cultivator and Non-cultivator,4613000,548333,832200,104688,7300,790654,51375,46.4,6.5
+Karnataka,Urban,Cultivator,1802000,789474,615800,3318,3800,2153367,151902,36.5,7.1
+Karnataka,Urban,Non Cultivator,5952600,471801,1066800,11397,25400,1138821,65526,22.9,5.8
+Karnataka,Urban,Total Cultivator and Non-cultivator,7754700,1261275,1682600,14714,29200,1412451,88822,26.5,6.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Goa,Rural,Cultivator,462800,23895,95500,0,0,1845365,28161,15.5,1.5
+Goa,Rural,Non Cultivator,5347300,642876,474600,97068,23500,928629,87599,17.2,9.4
+Goa,Rural,Total Cultivator and Non-cultivator,5810100,666771,570100,97068,23500,1044089,80113,17,7.7
+Goa,Urban,Cultivator,600,0,0,0,0,2399859,175999,13.9,7.3
+Goa,Urban,Non Cultivator,99700,4924,11400,0,0,2365478,89574,17.5,3.8
+Goa,Urban,Total Cultivator and Non-cultivator,100300,4924,11400,0,0,2372967,108399,16.7,4.6
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Lakshadweep,Rural,Cultivator,31300,2914,5400,0,0,2882688,11407,8,0.4
+Lakshadweep,Rural,Non Cultivator,128800,21361,17300,0,0,568695,9210,6.4,1.6
+Lakshadweep,Rural,Total Cultivator and Non-cultivator,160100,24274,22700,0,0,2406785,10955,7.7,0.5
+Lakshadweep,Urban,Cultivator,0,0,0,0,0,4062626,106460,31.5,2.6
+Lakshadweep,Urban,Non Cultivator,4600,1032,1600,0,0,2311618,47200,28.9,2
+Lakshadweep,Urban,Total Cultivator and Non-cultivator,4600,1032,1600,0,0,2631170,58014,29.4,2.2
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Kerala,Rural,Cultivator,5100,2107,2200,0,0,3552723,171581,53.5,4.8
+Kerala,Rural,Non Cultivator,2000,648,700,0,0,1079795,98874,41.4,9.2
+Kerala,Rural,Total Cultivator and Non-cultivator,7100,2755,2900,0,0,2730348,147402,49.5,5.4
+Kerala,Urban,Cultivator,113600,28036,62400,8194,2300,6099469,288898,55.7,4.7
+Kerala,Urban,Non Cultivator,5024100,1820387,1357100,360505,61200,3331765,136126,44,4.1
+Kerala,Urban,Total Cultivator and Non-cultivator,5137700,1848423,1419600,368699,63500,4023711,174320,47,4.3
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tamil Nadu,Rural,Cultivator,1238000,702480,374400,36450,4700,1163732,64298,49.6,5.5
+Tamil Nadu,Rural,Non Cultivator,1529900,644773,331700,82869,9700,363581,34163,33.5,9.4
+Tamil Nadu,Rural,Total Cultivator and Non-cultivator,2767900,1347254,706100,119319,14400,672660,45803,39.7,6.8
+Tamil Nadu,Urban,Cultivator,619600,188170,150400,0,0,2580754,157640,40.4,6.1
+Tamil Nadu,Urban,Non Cultivator,8741100,1381748,1402200,48076,34400,1338934,101162,32.7,7.6
+Tamil Nadu,Urban,Total Cultivator and Non-cultivator,9360700,1569918,1552600,48076,34400,1674056,116404,34.8,7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Puducherry,Rural,Cultivator,1037300,317092,264500,37837,6800,27457672,59076,37.8,0.2
+Puducherry,Rural,Non Cultivator,8968300,2159020,1075000,275299,48500,882124,74719,41.6,8.5
+Puducherry,Rural,Total Cultivator and Non-cultivator,10005600,2476112,1339600,313137,55400,5660454,71907,40.9,1.3
+Puducherry,Urban,Cultivator,3600,2330,1000,0,0,1573917,94869,46.9,6
+Puducherry,Urban,Non Cultivator,125900,38404,48700,547,300,1789643,84185,39,4.7
+Puducherry,Urban,Total Cultivator and Non-cultivator,129500,40734,49800,547,300,1744911,86400,40.6,5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Andaman & Nicobar Islands,Rural,Cultivator,13300,3427,7200,0,0,923941,15483,20,1.7
+Andaman & Nicobar Islands,Rural,Non Cultivator,178800,82706,47200,0,0,358234,25832,14.4,7.2
+Andaman & Nicobar Islands,Rural,Total Cultivator and Non-cultivator,192100,86132,54400,0,0,693623,19696,17.7,2.8
+Andaman & Nicobar Islands,Urban,Cultivator,10300,1475,2500,0,0,984433,97110,39.5,9.9
+Andaman & Nicobar Islands,Urban,Non Cultivator,42900,1198,1400,661,200,895522,88167,28.7,9.8
+Andaman & Nicobar Islands,Urban,Total Cultivator and Non-cultivator,53300,2673,3900,661,200,910990,89723,30.6,9.8
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Telangana,Rural,Cultivator,4700,4344,1300,0,0,968388,68028,69,7
+Telangana,Rural,Non Cultivator,31700,4702,2700,1283,100,265534,31203,47.9,11.8
+Telangana,Rural,Total Cultivator and Non-cultivator,36300,9046,4100,1283,100,637509,50692,59.1,8
+Telangana,Urban,Cultivator,1256300,122283,290000,3451,2600,2616479,272964,38.9,10.4
+Telangana,Urban,Non Cultivator,3674600,136462,440300,1485,2500,1503033,107693,26.8,7.2
+Telangana,Urban,Total Cultivator and Non-cultivator,4930900,258745,730200,4936,5100,1843466,158224,30.5,8.6
